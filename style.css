@@ -5,3 +5,14 @@
     text-indent: 100px;
     padding: 5px 0;
 }
+
+.about-me {
+    margin-top: 10px;
+}
+
+.img {
+    display: flex;
+    justify-content: flex-end; /* Pushes items to the end (right) */
+    align-items: center; /* Vertically centers items */
+    width: 100%
+}

@@ -1,0 +1,7 @@
+.heading {
+    background-color: #4c9eaf;
+    display: flex;
+    justify-content: center;
+    text-indent: 100px;
+    padding: 5px 0;
+}

@@ -8,11 +8,16 @@
 
 .about-me {
     margin-top: 10px;
+    font-size: 18px;
 }
 
 .img {
     display: flex;
-    justify-content: flex-end; /* Pushes items to the end (right) */
+    justify-content: center; /* Pushes items to the end (right) */
     align-items: center; /* Vertically centers items */
     width: 100%
+}
+
+.projects {
+    font-size: 18px;
 }

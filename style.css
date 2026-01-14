@@ -7,15 +7,20 @@
 }
 
 .about-me {
+    text-align: center;
     margin-top: 10px;
     font-size: 18px;
+    border: 2px solid black;
+    
 }
 
 .img {
     display: flex;
     justify-content: center; /* Pushes items to the end (right) */
     align-items: center; /* Vertically centers items */
-    width: 100%
+    width: 100%;
+    padding: 10px;
+    border: 2px solid black;
 }
 
 .projects {
